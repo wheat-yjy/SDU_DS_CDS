@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/iconForListView.png</file>
+        <file>images/xiaoxin.jpg</file>
+    </qresource>
+</RCC>
