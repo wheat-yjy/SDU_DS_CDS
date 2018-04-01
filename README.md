@@ -3,12 +3,13 @@
 
 ## 总体实现
 顺序查找、二分搜索（用移位代替除法）、红黑树、AVL树、哈希
+
 抱歉留了个B+树的坑还没写完，学完数据库回来补上
 
 ## 环境问题
-Ubuntu16.04
-QT 5.10.1
-Qt Creator 4.5
+#### Ubuntu16.04
+#### QT 5.10.1
+#### Qt Creator 4.5
 
 ## 以下是各种搜索算法简单的总结，如果我的代码以及文档帮助到了你，给个星吧谢谢
 ## The following is my summary of various search algorithms, a star, please.
